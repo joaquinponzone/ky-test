@@ -50,8 +50,6 @@ npm run dev
 
 yarn dev
 
-or
-
 bun dev
 ```
 
@@ -65,11 +63,7 @@ To create an optimized production build:
 ```bash
 npm run build
 
-or
-
 yarn build
-
-or
 
 bun run build
 ```

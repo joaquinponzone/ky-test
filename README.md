@@ -49,21 +49,22 @@ A Next.js project for displaying Pokémon details and improving the Pokémon lis
 
 To run the development server:
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
-    or
+or
 
-    ```bash
-    yarn dev
-    ```
+```bash
+yarn dev
+```
 
-    or
+or
 
-    ```bash
-    bun dev
-    ```
+```bash
+bun dev
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -71,21 +72,21 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To create an optimized production build:
 
-    ```bash
-    npm run build
-    ```
+```bash
+npm run build
+```
 
-    or
+or
 
-    ```bash
-    yarn build
-    ```
+```bash
+yarn build
+```
 
-    or
+or
 
-    ```bash
-    bun build
-    ```
+```bash
+bun run build
+```
 
 ### Environment Variables
 

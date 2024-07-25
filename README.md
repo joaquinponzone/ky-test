@@ -31,17 +31,13 @@ A Next.js project for displaying Pokémon details and improving the Pokémon lis
 
     ```bash
     npm install
-    ```
 
     or
 
-    ```bash
     yarn install
-    ```
 
     or
 
-    ```bash
     bun install
     ```
 
@@ -51,17 +47,11 @@ To run the development server:
 
 ```bash
 npm run dev
-```
 
-or
-
-```bash
 yarn dev
-```
 
 or
 
-```bash
 bun dev
 ```
 
@@ -74,17 +64,13 @@ To create an optimized production build:
 
 ```bash
 npm run build
-```
 
 or
 
-```bash
 yarn build
-```
 
 or
 
-```bash
 bun run build
 ```
 

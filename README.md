@@ -68,7 +68,3 @@ yarn build
 bun run build
 ```
 
-### Environment Variables
-
-Create a `.env.local` file in the root of your project and add your environment-specific variables.
-

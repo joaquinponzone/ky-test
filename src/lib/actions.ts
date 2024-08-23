@@ -1,4 +1,4 @@
-"server only";
+"use server";
 
 import { PokemonResponse } from "@/types/index";
 import { PokemonDetails } from "@/types/pokemon-details";
